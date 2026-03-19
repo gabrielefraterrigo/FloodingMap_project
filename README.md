@@ -1,5 +1,4 @@
-Ecco la versione inglese del README:
-markdown# Flood Detection with Sentinel-1 SAR — Emilia-Romagna, May 2023
+
 
 ## Project Overview
 
