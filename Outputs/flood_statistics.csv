@@ -1,0 +1,11 @@
+parametro,valore,unita
+sensore,Sentinel-1 SAR,
+polarizzazione,VV,
+risoluzione,30,metri
+soglia_backscatter,-15.0,dB
+backscatter_medio_pre,-13.73,dB
+backscatter_medio_post,-11.96,dB
+pixel_totali,3313036,pixel
+pixel_allagati,656413,pixel
+area_allagata_km2,590.77,km2
+copertura_pct,19.8,%
